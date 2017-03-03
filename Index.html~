@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1"> 
+    <link rel="stylesheet" href="plugins/bootstrap.min.css"/>
+	<link rel="stylesheet" href="font-awesome/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="external.css"/>
+
+
+  </head>
+
+  <body>
+
+     <div class="container-fluid mycontiner"> 
+
+		  <div class="row">
+
+			<div class="col-md-5" id="left">
+           			<div class="col-md-12" id="version">V 1.1.2 </div>  
+           			<div class="col-md-8" id="companyName"><span style="color:#06CB79">RS</span>card</div> 
+           			<div class="col-md-4">
+
+                                            <div id="log">Html</div>
+                                </div> 
+           			<div class="col-md-12"id="design"><span style="font-weight:bold;">MATERIAL</span> DESIGNS</div>
+				<div class="col-md-12" style="padding:10px 0px;"><hr/></div>
+           			<div class="col-md-12"id="details">
+					<p>HTML5,CSS3,jQuery powered</p>
+					<p>Fully Responsive Layout</p>
+					<p>Cross browser compatible</p>
+					<p>Minimal and Clean</p>
+					<p>SEO Friendly</p>
+					<p>Semantically Correct</p>
+					<p>Valid HTML Code</p>
+					<p>Custom color scheme</p>
+
+				</div>    
+
+			</div>
+
+			<div class="col-md-7" id="right">
+
+					<div class="col-md-12" id="outer">
+
+
+						<div class="col-md-12" id="inner-top">
+						 <div class="col-md-12"><span style="color:#0FBE74">RS</span>card</div> 
+                                         	</div> 
+						<div class="col-md-12" id="inner-mid">
+								<div class="col-md-4" id="inner-mid-left">
+		 							<img id="a" src="default_user.png" alt="profilepic.png" />
+                                                                </div>
+								<div class="col-md-8" id="inner-mid-right">
+        								<div class="col-md-4" id="p">hi i'm</div>
+        								<div class="col-md-8" id="q" ></div>
+        								<div class="col-md-4" id="p">id :</div>
+        								<div class="col-md-8" id="r"></div>
+        								<div class="col-md-12" id="s"></div>         
+                                                                      
+                                                               </div>
+                                                                        
+                                                                </div>
+
+
+						</div> 
+						<div class="col-md-12" id="inner-bottom">
+
+                					<div class="col-md-2" id="inner-bottom"></div>
+                					<div class="col-md-2" id="inner-bottom"><a href=""><i  class="fa fa-twitter"></i></a> </div>
+                					<div class="col-md-2" id="inner-bottom"><a href="https://www.facebook.com/" target="_blank"><i class="fa fa-facebook"></i></a> </div>
+                					<div class="col-md-2" id="inner-bottom"><a href=""><i class="fa fa-linkedin"></i></a> </div>
+                					<div class="col-md-2" id="inner-bottom"><a href=""><i class="fa fa-google-plus"></i></a> </div>
+                					<div class="col-md-2" id="inner-bottom"></div>
+ 
+                                               </div> 
+							
+
+					</div>  
+
+                                       
+
+
+			</div>
+
+		  </div>
+	
+     </div> 
+
+    <script src="plugins/jquery.js"></script> 
+    <script type="text/javascript" src="plugins/bootstrap.min.js"></script> 
+    <script type="text/javascript" src="myjava.js"></script>  
+
+  </body>
+
+</html>
+
+
+
+
+
+
+		  
